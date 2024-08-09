@@ -25,4 +25,8 @@ class Book {
         self.rating = rating
         self.date = date
     }
+    
+    func doesNothing() {
+        //just a function to test sssource control
+    }
 }
